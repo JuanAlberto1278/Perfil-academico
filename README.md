@@ -1,18 +1,18 @@
-# **Perfil acadÈmico Juan Alberto Mora**
+# **Perfil acad√©mico Juan Alberto Mora**
 
-> - Estudiante de GeografÌa de la Universidad de Costa Rica
-  - Cursando programa de Procesamiento de datos geogr·ficos
+> - Estudiante de Geograf√≠a de la Universidad de Costa Rica
+  - Cursando programa de Procesamiento de datos geogr√°ficos
 
-#### *¡reas de interÈs*
+#### *√Åreas de inter√©s*
 
 1. Procesamiento de datos
-2. An·lisis de datos geogr·ficos
-3. DiseÒo p·ginas web
-4. Aprendizaje de lenguajes de programaciÛn
+2. An√°lisis de datos geogr√°ficos
+3. Dise√±o p√°ginas web
+4. Aprendizaje de lenguajes de programaci√≥n
 
 [Sitio web Universidad de Costa Rica](https://www.ucr.ac.cr/)
 
-![](ucr.png)
+![](https://accionsocial.ucr.ac.cr/sites/default/files/herramienta/imagenes/2020-12/firma-promocional-con-texto-blanco.png)
 
 Fuente: Universidad de Costa Rica
 
