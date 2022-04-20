@@ -1,4 +1,4 @@
-#Perfil académico Juan Alberto Mora
+# Perfil acadÃ©mico Juan Alberto Mora
 
-Estudiante de Geografía de la Universidad de Costa Rica
+Estudiante de GeografÃ­a de la Universidad de Costa Rica
 
