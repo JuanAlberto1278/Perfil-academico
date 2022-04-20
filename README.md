@@ -14,5 +14,7 @@
 
 ![](https://accionsocial.ucr.ac.cr/sites/default/files/herramienta/imagenes/2020-12/firma-promocional-con-texto-blanco.png)
 
+![](ucr.png)
+
 > Fuente: Universidad de Costa Rica
 
